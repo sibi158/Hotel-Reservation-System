@@ -1,0 +1,5 @@
+101,Standard,80.0,false
+102,Standard,80.0,true
+201,Deluxe,150.0,false
+202,Deluxe,150.0,true
+301,Suite,300.0,true
